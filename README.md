@@ -5,4 +5,4 @@
 ## Social Media
 * **Discord**: [**eddydevv**](https://discord.com/users/346752632729239553)
 
-![EddyDevv GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyerdevvv&hide=contribs&show_icons=true&theme=vue&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyerdevvv&theme=vue&layout=compact)
+![EddyDevv GitHub stats](https://github-readme-stats.vercel.app/api?username=EddyerDevv&hide=contribs&show_icons=true&theme=vue&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddyerDevv&theme=vue&layout=compact)
